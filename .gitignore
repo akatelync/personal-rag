@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# uv related
+.venv/
+data/
+documents/
+*.pyc
+__pycache__/
+*.log
